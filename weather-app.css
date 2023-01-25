@@ -1,0 +1,26 @@
+header {
+    padding: 50px;
+    text-align:center;
+    font-size:40px;
+   }
+   
+body {
+    background-image: url('https://images.theconversation.com/files/232705/original/file-20180820-30593-1nxanpj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop'); 
+   }
+   
+main {
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+   }
+.temp {
+    display:inline;
+    
+}
+.temp-container {
+    margin-top:50px;
+}
+   
+    
+   
+   
